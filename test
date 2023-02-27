@@ -1,0 +1,7 @@
+This a new file 
+git init
+git status
+git add
+git config
+git commit
+git log
