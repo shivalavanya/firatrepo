@@ -9,3 +9,10 @@ git hub
 git push
 git pull
 git clone
+Add the code local Repositary
+git merge
+staging area
+git log --oneline
+git commit -m "Comments"
+This is a code
+this
